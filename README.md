@@ -1,2 +1,2 @@
-# coffee-shop-Django--project
-Djnago project developed to order the coffee's 
+# E-commerce-Django--project
+Djnago project developed for grocery shopping 
